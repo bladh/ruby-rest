@@ -1,2 +1,2 @@
-items.db
-server.log
+*.db
+*.log
